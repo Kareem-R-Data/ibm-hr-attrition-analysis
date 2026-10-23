@@ -71,6 +71,12 @@ Which factors are most associated with employee attrition, and where should the 
 - Built a DAX measure for attrition rate, calculated **within each group** (not as a share of total employees) so groups of different sizes can be compared fairly.
 - Used median instead of average for income and tenure to reduce the effect of outliers.
 
+## Recommendations
+
+1. Review overtime workload, especially in Sales, where attrition is highest.
+2. Look into work environment issues for employees reporting the lowest satisfaction.
+3. Review compensation in departments with the largest income gap between leavers and stayers.
+
 ### DAX Measures
 
 Attrition Rate

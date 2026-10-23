@@ -1,6 +1,6 @@
 # IBM HR Attrition Analysis (Power BI)
 
-An interactive Power BI dashboard that explores why employees leave a company, using the IBM HR Analytics dataset (1,470 employees, 35 columns).
+An interactive Power BI dashboard that explores why employees leave a company, using the IBM HR Analytics dataset.
 
 ## Business Question
 
